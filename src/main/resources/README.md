@@ -1,1 +1,1 @@
-Test
+Test(src/main/res)
